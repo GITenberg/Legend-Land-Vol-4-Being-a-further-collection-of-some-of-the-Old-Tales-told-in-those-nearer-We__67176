@@ -1,0 +1,30 @@
+_repo: Legend-Land-Vol-4-Being-a-further-collection-of-some-of-the-Old-Tales-told-in-those-nearer-We__67176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-01-16'
+identifiers:
+  gutenberg: '67176'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.319510024574282&view=1up&seq=9https://babel.hathitrust.org/cgi/pt?id=umn.319510024574274&view=1up&seq=1
+pgterms:marc905: 20200311102520barham
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: United Kingdom :The Great Western Railway,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Legend Land, Vol. 4: Being a further collection of some of the Old Tales told
+  in those nearer Western Parts of Britain served by the Great Western Railway, now
+  retold by Lyonesse'
+url: http://www.gutenberg.org/ebooks/67176
